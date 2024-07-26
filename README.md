@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href=”https://instagram.com/luca.oro"><img align=”left” src=”https://raw.githubusercontent.com/lucaorofina/lucaorofina/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”Luca Orofina| Instagram” width=”35px”/></a>
 [![Luca’s github stats](https://github-readme-stats.vercel.app/api?username=lucaorofina)](https://github.com/lucaorofina)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaorofina&layout=compact)](https://github.com/lucaorofina)
