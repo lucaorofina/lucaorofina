@@ -1,11 +1,11 @@
-## Hi there 👋
+## Hi 👋, I'm Luca
 
 <!--
 **lucaorofina/lucaorofina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
-<h1 align="center">Hi 👋, I'm Luca</h1>
+<h1 align="center"></h1>
 <h3 align="left">🔭 I’m a Computer Science student at Queens College in NYC.  I’m currently working on on a Patient Service Web Application that can be used by medical clinics to track their patient data.</h3>
 <h3 align="left"> 🤔 I’m looking for help with learning robotics, I am looking to join a team or a club.</h3>
 <h3 align="left"> 📫 How to reach me: luca.orofina@gmail.com</h3>
