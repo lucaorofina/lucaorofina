@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on on a Patient Service Web Application that can be used by medical clinics to track their patient data.
 - 🌱 I’m currently studying Computer Science at Queens College in NYC.
-- 🤔 I’m looking for help with learning robotics, by joining a team or a club!
+- 🤔 I’m looking for help with learning robotics, I am looking to join a team or a club.
 - 📫 How to reach me: luca.orofina@gmail.com
-- ⚡ Fun fact: I am a big soccer fan and 
+- ⚡ Fun fact: I am a big soccer fan, I can talk about it for hours!
 
 
 [![Luca’s github stats](https://github-readme-stats.vercel.app/api?username=lucaorofina)](https://github.com/lucaorofina)
