@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 
 [![Luca’s github stats](https://github-readme-stats.vercel.app/api?username=lucaorofina)](https://github.com/lucaorofina)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaorofina&layout=compact)](https://github.com/lucaorofina)
+<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+
+<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
