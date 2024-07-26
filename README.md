@@ -7,9 +7,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"></h1>
 <h3 align="left">🔭 I’m a Computer Science student at Queens College in NYC. Currently, I’m working on on a Patient Service Web Application that can be used by medical clinics to track their patient data.</h3>
-<h3 align="left"> 🤔 I’m looking for help with learning robotics, I am looking to join a team or a club.</h3>
+<h3 align="left"> 🤔 I’m looking for help with learning robotics, I would love to join a team or a club.</h3>
 <h3 align="left"> 📫 How to reach me: luca.orofina@gmail.com</h3>
-<h3 align="left">⚡ Fun fact: I am a big soccer fan, I can talk about it for hours!</h3>
+<h3 align="left">⚡ Fun fact: I am a big soccer fan, I can talk about it for hours! ⚽</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/luca.oro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="luca.oro" height="30" width="40" /></a>
